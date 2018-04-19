@@ -1,5 +1,8 @@
 # Deep-Learning-Code
-# john.prince@eng.ox.ac.uk
+# BETA 0.1
+# incomplete models
+
+john.prince@eng.ox.ac.uk
 Keras implementation of Multi Source Learning using Deep and Convolutional Neural Networks with Ensembling
 
 Modular architecture definitions are in NNetModelDefinitions.py
